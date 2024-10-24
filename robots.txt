@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ripadoqe.github.io/sitemap/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/Sbw/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/gYp/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/xkg/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/NBo/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/UgF/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/dyA/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/lip/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/icZ/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/wuY/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/MrB/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/CgL/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/Rmb/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/Pkt/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/wWU/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/kwL/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/TsH/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/xAS/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/OcQ/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/nJT/sitemap_index.ripadoqe
+Sitemap: https://ripadoqe.github.io/Cix/sitemap_index.ripadoqe
